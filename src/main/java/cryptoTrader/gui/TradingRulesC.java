@@ -1,7 +1,7 @@
 /*
- * Class Description: This class is a subclass of TradingRules. It creates the TradingRulesC object to use with Strategy-C.
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
+ * This class is a subclass of TradingRules. It creates the TradingRulesC object to use with Strategy-C.
  */
+
 package cryptoTrader.gui;
 
 import cryptoTrader.utils.DataFetcher;
