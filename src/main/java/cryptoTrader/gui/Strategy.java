@@ -1,6 +1,5 @@
 /*
  * Class Description: This class creates the creatorStrategy object and provides the productStrategy object for the traders data
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  */
 
 package cryptoTrader.gui;
