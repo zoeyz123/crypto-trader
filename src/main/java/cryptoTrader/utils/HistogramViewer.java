@@ -1,5 +1,5 @@
 /*
- * Class Description: This class creates the histogram representation of the user's trade
+ * This class creates the histogram representation of the user's trade
  */
 
 package cryptoTrader.utils;
