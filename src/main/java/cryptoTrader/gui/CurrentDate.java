@@ -1,6 +1,5 @@
 /*
  * Class Description: This class provides the current date
- * Author: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  */
 
 package cryptoTrader.gui;
