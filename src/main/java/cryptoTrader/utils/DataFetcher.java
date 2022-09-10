@@ -1,5 +1,5 @@
 /**
- * Class Description: This class fetches the coinGecko API information for given coin on given date stored in a Json file
+ * This class fetches the coinGecko API information for given coin on given date stored in a Json file
  * @param id of the coin to get info for
  * @param date to get info from
  * @return Json file with data from coingecko API
