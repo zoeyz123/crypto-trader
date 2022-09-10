@@ -1,6 +1,6 @@
 /*
  * Class Description: This class performs the trade which happens when the mainUI calls the execute method  
- */
+ */ 
 
 package cryptoTrader.gui;
 import java.util.ArrayList;
