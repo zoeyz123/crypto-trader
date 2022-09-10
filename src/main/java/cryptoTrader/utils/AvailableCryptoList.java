@@ -1,6 +1,5 @@
 /**
  * Class Description: This class determines what cryptocoins are available through a Coin Gecko API call
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  *
  */
 
