@@ -1,6 +1,5 @@
 /*
  * Class Description: This class performs the trade which happens when the mainUI calls the execute method  
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  */
 
 package cryptoTrader.gui;
