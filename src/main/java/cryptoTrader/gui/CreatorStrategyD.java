@@ -1,5 +1,5 @@
 /*
- * Class Description: This is a subclass of CreatorStrategy. It overrides factoryMethod and returns a ProductStrategyD object
+ * Class Description: This is a subclass of CreatorStrategy. It overrides factoryMethod and returns a ProductStrategyD object 
  */
 
 package cryptoTrader.gui;
