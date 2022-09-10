@@ -1,7 +1,7 @@
 /*
- * Class Description: This class creates the TradingRules object to use with the corresponding strategy.
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
+ * This class creates the TradingRules object to use with the corresponding strategy.
  */
+
 package cryptoTrader.gui;
 
 import cryptoTrader.utils.DataFetcher;
