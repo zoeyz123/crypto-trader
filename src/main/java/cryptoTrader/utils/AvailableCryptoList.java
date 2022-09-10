@@ -1,5 +1,5 @@
 /**
- * Class Description: This class determines what cryptocoins are available through a Coin Gecko API call
+ * This class determines what cryptocoins are available through a Coin Gecko API call
  *
  */
 
