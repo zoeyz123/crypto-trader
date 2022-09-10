@@ -1,6 +1,5 @@
 /*
  * Class Description: This class is the where the main program starts so the user will login and if successful, it will output the application
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  */
 
 package cryptoTrader.gui;
