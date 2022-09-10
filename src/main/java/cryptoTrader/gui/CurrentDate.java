@@ -1,5 +1,5 @@
 /*
- * Class Description: This class provides the current date
+ * Class Description: This class provides the current date 
  */
 
 package cryptoTrader.gui;
