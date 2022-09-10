@@ -1,6 +1,5 @@
 /*
  * Class Description: This class creates the table representing the user's actions 
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  */
 
 package cryptoTrader.utils;
