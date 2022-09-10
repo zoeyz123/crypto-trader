@@ -1,6 +1,5 @@
 /*
  * Class Description: This class is the interface that connects the PerformTradeProxy class and the PerformTrade class
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  */
 
 package cryptoTrader.gui;
