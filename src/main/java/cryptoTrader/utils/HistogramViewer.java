@@ -1,6 +1,5 @@
 /*
  * Class Description: This class creates the histogram representation of the user's trade
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  */
 
 package cryptoTrader.utils;
