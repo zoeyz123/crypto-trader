@@ -1,6 +1,5 @@
 /*
  * Class Description: This class holds all the trader's information
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  */
 
 package cryptoTrader.gui;
