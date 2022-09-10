@@ -1,7 +1,7 @@
 /*
- * Class Description: This class is a subclass of TradingRules. It creates the TradingRulesD object to use with Strategy-D. 
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
+ * This class is a subclass of TradingRules. It creates the TradingRulesD object to use with Strategy-D. 
  */
+
 package cryptoTrader.gui;
 
 import cryptoTrader.utils.DataFetcher;
