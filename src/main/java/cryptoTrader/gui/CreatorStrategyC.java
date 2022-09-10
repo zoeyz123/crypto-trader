@@ -1,6 +1,5 @@
 /*
  * Class Description: This is a subclass of CreatorStrategy. It overrides factoryMethod and returns a ProductStrategyC object 
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  */
 
 package cryptoTrader.gui;
