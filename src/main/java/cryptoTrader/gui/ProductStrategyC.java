@@ -1,7 +1,7 @@
 /*
  * Class Description: This class is a subclass of class ProductStrategy. It creates the ProductStrategyC object for the traders data
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  */
+
 package cryptoTrader.gui;
 
 import java.util.ArrayList;
