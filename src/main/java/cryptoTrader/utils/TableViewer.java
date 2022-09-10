@@ -1,5 +1,5 @@
 /*
- * Class Description: This class creates the table representing the user's actions 
+ * This class creates the table representing the user's actions 
  */
 
 package cryptoTrader.utils;
