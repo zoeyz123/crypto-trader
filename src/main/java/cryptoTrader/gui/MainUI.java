@@ -1,6 +1,6 @@
 /*
  * Class Description: This class is the where the main program starts so the user will login and if successful, it will output the application
- */
+ */ 
 
 package cryptoTrader.gui;
 
