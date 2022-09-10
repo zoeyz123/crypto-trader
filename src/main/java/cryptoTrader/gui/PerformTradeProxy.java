@@ -1,6 +1,5 @@
 /*
  * Class Description: This class is the proxy class of the performTrade class. It holds a reference to the real performTrade object and executes perform trade when called 
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  */
 
 package cryptoTrader.gui;
