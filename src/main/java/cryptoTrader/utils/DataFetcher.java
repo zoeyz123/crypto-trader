@@ -3,7 +3,6 @@
  * @param id of the coin to get info for
  * @param date to get info from
  * @return Json file with data from coingecko API
- * Authors: Jessica Ou, Brielle Nguyen, Mylan Nguyen, Zoey Zheng
  */
 
 package cryptoTrader.utils;
